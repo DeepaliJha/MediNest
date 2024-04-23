@@ -16,7 +16,7 @@ MediNest is an innovative healthcare recommendation system designed to assist us
 - Pandas
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/MediNest.git`
+1. Clone the repository: `git clone https://github.com/DeepaliJha/MediNest.git`
 2. Navigate to the project directory: `cd MediNest`
 3. Install dependencies: `pip install -r requirements.txt`
 
