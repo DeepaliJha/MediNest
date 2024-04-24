@@ -21,9 +21,15 @@ MediNest is an innovative healthcare recommendation system designed to empower u
 3. Navigate to the project directory: `cd flaskProject`
 
 ## Usage 📝
-1. Run the Flask application: `python main.py`
+1. Run the Flask application: `python app.py`
 2. Access the application in your web browser: [http://127.0.0.1:5000
 ](http://localhost:5000)
+
+# MediNest User Interface
+
+Here is the user interface of MediNest where users can enter symptoms to find a doctor:
+
+![MediNest UI](/path/to/your/screenshot/image.png)
 
 ## Contributors 🙌
 - Deepali Jha
