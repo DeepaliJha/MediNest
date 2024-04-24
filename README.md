@@ -29,7 +29,7 @@ MediNest is an innovative healthcare recommendation system designed to empower u
 
 Here is the user interface of MediNest where users can enter symptoms to find a doctor:
 
-![MediNest UI](/path/to/your/screenshot/image.png)
+![MediNest UI](https://ibb.co/JH87L4R)
 
 ## Contributors 🙌
 - Deepali Jha
