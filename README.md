@@ -31,7 +31,6 @@ Here is the user interface of MediNest where users can enter symptoms to find a 
 ![MedinestUI](https://i.ibb.co/0r1MNSj/Whats-App-Image-2024-04-24-at-20-43-24.jpg)
 ![MedinestUI](https://i.ibb.co/WnzhKFm/Whats-App-Image-2024-04-24-at-20-44-01.jpg)
 ![Medinest](https://i.ibb.co/k9394s6/Whats-App-Image-2024-04-24-at-20-44-24.jpg)
-![Med](https://i.ibb.co/7XYpnyX/Whats-App-Image-2024-04-24-at-20-44-59.jpg)
-
+![Medi](https://i.ibb.co/7XYpnyX/Whats-App-Image-2024-04-24-at-20-44-59.jpg)
 ## Contributors 🙌
 - Deepali Jha
