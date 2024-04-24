@@ -17,12 +17,13 @@ MediNest is an innovative healthcare recommendation system designed to empower u
 
 ## Installation 🛠️
 1. Clone the repository: `git clone https://github.com/DeepaliJha/MediNest.git`
-2. Navigate to the project directory: `cd MediNest`
-3. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Navigate to the project directory: `cd flaskProject`
 
 ## Usage 📝
-1. Run the Flask application: `python app.py`
-2. Access the application in your web browser: [http://localhost:5000](http://localhost:5000)
+1. Run the Flask application: `python main.py`
+2. Access the application in your web browser: [http://127.0.0.1:5000
+](http://localhost:5000)
 
 ## Contributors 🙌
 - Deepali Jha
